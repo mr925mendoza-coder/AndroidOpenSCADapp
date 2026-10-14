@@ -1,2 +1,2 @@
 # AndroidOpenSCADapp
-Open Source Android CAD app with 3D modeling and STL export. Inspired by OpenSCAD build for android. 
+Open Source Android CAD app with 3D modeling and STL export. Inspired by OpenSCAD build for android. it's my first app!
